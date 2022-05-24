@@ -33,7 +33,7 @@ client.on('messageCreate', async message => {
 				.addComponents(new MessageButton()
 					.setLabel('Click Me!')
 					.setStyle('PRIMARY')
-					.setEmoji('ðŸ˜€')
+					.setEmoji('🖍️')
 					.setCustomId('button')
 					.setDisabled(false))
 			],
