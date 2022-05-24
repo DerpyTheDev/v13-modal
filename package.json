@@ -4,14 +4,30 @@
     "discord.js": "^13.7.0",
     "dotenv": "^16.0.1"
   },
-  "name": "modal-example",
+  "name": "discord-modal-example",
   "version": "1.0.0",
-  "description": "A simple discord.js v13 Modal exampl/bot",
+  "description": "A simple discord.js v13 Modal exampl/bot without using discord-modals",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
     "start": "node index.js"
   },
   "author": "DerpyDev",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerpyTheDev/v13-modal.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord.js-v13",
+    "discord.js v13",
+    "discord.js-v13 modal",
+    "discord.js v13 modal",
+    "discord.js modal"
+  ],
+  "bugs": {
+    "url": "https://github.com/DerpyTheDev/v13-modal/issues"
+  },
+  "homepage": "https://github.com/DerpyTheDev/v13-modal#readme"
 }
