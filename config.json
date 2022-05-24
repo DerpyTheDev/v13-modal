@@ -1,0 +1,9 @@
+{
+  "TOKEN": "here or in an .env",
+  "PREFIX": "!",
+  "ACTIVITY": {
+    "type": "playing",
+    "name": "!help",
+    "status": "idle"
+  }
+}
